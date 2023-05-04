@@ -1,0 +1,7 @@
+:root {
+    --theme-c:#22c4ec
+}
+
+.bg_theme {
+    background-color: var(--theme-c);
+}
