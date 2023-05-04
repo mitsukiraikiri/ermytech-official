@@ -18,14 +18,14 @@
 
     <!-- Vendor CSS Files -->
     @include('partials.header')
-    <link href="{{ URL::asset('/impact/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ URL::asset('/impact/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-    <link href="{{ URL::asset('/impact/assets/vendor/aos/aos.css') }}" rel="stylesheet">
-    <link href="{{ URL::asset('/impact/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-    <link href="{{ URL::asset('/impact/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/vendor/aos/aos.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
     <!-- Template Main CSS File -->
-    <link href="{{ URL::asset('/impact/assets/css/main.css') }}" rel="stylesheet">
+    <link href="{{ URL::asset('/template/assets/css/main.css') }}" rel="stylesheet">
 
     <!-- =======================================================
   * Template Name: Impact
@@ -163,16 +163,16 @@
     <div id="preloader"></div>
 
     <!-- Vendor JS Files -->
-    <script src="{{ URL::asset('/impact/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/aos/aos.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-    <script src="{{ URL::asset('/impact/assets/vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/aos/aos.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/vendor/php-email-form/validate.js') }}"></script>
 
     <!-- Template Main JS File -->
-    <script src="{{ URL::asset('/impact/assets/js/main.js') }}"></script>
+    <script src="{{ URL::asset('/template/assets/js/main.js') }}"></script>
 
 </body>
 

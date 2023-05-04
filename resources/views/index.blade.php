@@ -16,7 +16,7 @@
                 </div>
             </div>
             <div class="col-lg-6 order-1 order-lg-2">
-                <img src="{{ URL::asset('/impact/assets/img/hero-img.svg') }}" class="img-fluid" alt=""
+                <img src="{{ URL::asset('/template/assets/img/hero-img.svg') }}" class="img-fluid" alt=""
                     data-aos="zoom-out" data-aos-delay="100">
             </div>
         </div>
@@ -79,7 +79,7 @@
             <div class="row gy-4">
                 <div class="col-lg-6">
                     <h3 class="text-capitalize">Mulai coba menggunakan layanan kami.</h3>
-                    <img src="{{ URL::asset('/impact/assets/img/about.jpg') }}" class="img-fluid rounded-4 mb-4"
+                    <img src="{{ URL::asset('/template/assets/img/about.jpg') }}" class="img-fluid rounded-4 mb-4"
                         alt="">
                     <p>Kami menyediakan beberapa layanan buat kamu hususnya kelas online, kamu bisa belajar secara gratis dengan mendapatkan banyak promo dari kami, ikuti infomasi dari kami melalui instagram kami</p>
                     <p>Kami mempunyai tenaga mentor berpengalaman yang siap membimbing kamu secara online maupun offline</p>
@@ -99,7 +99,7 @@
                         </p>
 
                         <div class="position-relative mt-4">
-                            <img src="{{ URL::asset('/impact/assets/img/about-2.jpg') }}" class="img-fluid rounded-4"
+                            <img src="{{ URL::asset('/template/assets/img/about-2.jpg') }}" class="img-fluid rounded-4"
                                 alt="">
                             <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
                         </div>
@@ -116,21 +116,21 @@
 
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-1.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-1.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-2.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-2.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-3.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-3.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-4.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-4.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-5.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-5.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-6.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-6.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-7.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-7.png') }}"
                             class="img-fluid" alt=""></div>
-                    <div class="swiper-slide"><img src="{{ URL::asset('/impact/assets/img/clients/client-8.png') }}"
+                    <div class="swiper-slide"><img src="{{ URL::asset('/template/assets/img/clients/client-8.png') }}"
                             class="img-fluid" alt=""></div>
                 </div>
             </div>
@@ -146,7 +146,7 @@
             <div class="row gy-4 align-items-center">
 
                 <div class="col-lg-6">
-                    <img src="{{ URL::asset('/impact/assets/img/stats-img.svg') }}" alt="" class="img-fluid">
+                    <img src="{{ URL::asset('/template/assets/img/stats-img.svg') }}" alt="" class="img-fluid">
                 </div>
 
                 <div class="col-lg-6">
@@ -298,7 +298,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
                                 <div class="d-flex align-items-center">
-                                    <img src="{{ URL::asset('/impact/assets/img/testimonials/testimonials-1.jpg') }}"
+                                    <img src="{{ URL::asset('/template/assets/img/testimonials/testimonials-1.jpg') }}"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
                                         <h3>Saul Goodman</h3>
@@ -325,7 +325,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
                                 <div class="d-flex align-items-center">
-                                    <img src="{{ URL::asset('/impact/assets/img/testimonials/testimonials-2.jpg') }}"
+                                    <img src="{{ URL::asset('/template/assets/img/testimonials/testimonials-2.jpg') }}"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
                                         <h3>Sara Wilsson</h3>
@@ -352,7 +352,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
                                 <div class="d-flex align-items-center">
-                                    <img src="{{ URL::asset('/impact/assets/img/testimonials/testimonials-3.jpg') }}"
+                                    <img src="{{ URL::asset('/template/assets/img/testimonials/testimonials-3.jpg') }}"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
                                         <h3>Jena Karlis</h3>
@@ -378,7 +378,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
                                 <div class="d-flex align-items-center">
-                                    <img src="{{ URL::asset('/impact/assets/img/testimonials/testimonials-4.jpg') }}"
+                                    <img src="{{ URL::asset('/template/assets/img/testimonials/testimonials-4.jpg') }}"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
                                         <h3>Matt Brandon</h3>
@@ -404,7 +404,7 @@
                         <div class="testimonial-wrap">
                             <div class="testimonial-item">
                                 <div class="d-flex align-items-center">
-                                    <img src="{{ URL::asset('/impact/assets/img/testimonials/testimonials-5.jpg') }}"
+                                    <img src="{{ URL::asset('/template/assets/img/testimonials/testimonials-5.jpg') }}"
                                         class="testimonial-img flex-shrink-0" alt="">
                                     <div>
                                         <h3>John Larson</h3>
@@ -461,7 +461,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/app-1.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/app-1.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/app-1.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">App 1</a></h4>
@@ -474,7 +474,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/product-1.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/product-1.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/product-1.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Product 1</a></h4>
@@ -487,7 +487,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/branding-1.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/branding-1.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/branding-1.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Branding 1</a>
@@ -500,7 +500,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-books">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/books-1.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/books-1.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/books-1.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Books 1</a></h4>
@@ -512,7 +512,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/app-2.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/app-2.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/app-2.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">App 2</a></h4>
@@ -525,7 +525,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/product-2.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/product-2.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/product-2.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Product 2</a></h4>
@@ -538,7 +538,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/branding-2.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/branding-2.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/branding-2.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Branding 2</a>
@@ -551,7 +551,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-books">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/books-2.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/books-2.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/books-2.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Books 2</a></h4>
@@ -563,7 +563,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/app-3.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/app-3.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/app-3.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">App 3</a></h4>
@@ -576,7 +576,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/product-3.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/product-3.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/product-3.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Product 3</a></h4>
@@ -589,7 +589,7 @@
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/branding-3.jpg') }}"
                                 data-gallery="portfolio-gallery-app" class="glightbox"><img
-                                    src="{{ URL::asset('/impact/assets/img/portfolio/branding-3.jpg') }}"
+                                    src="{{ URL::asset('/template/assets/img/portfolio/branding-3.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Branding 3</a>
@@ -602,7 +602,7 @@
                     <div class="col-xl-4 col-md-6 portfolio-item filter-books">
                         <div class="portfolio-wrap">
                             <a href="{{ url('assets/img/portfolio/books-3.jpg') }}" data-gallery="portfolio-gallery-app"
-                                class="glightbox"><img src="{{ URL::asset('/impact/assets/img/portfolio/books-3.jpg') }}"
+                                class="glightbox"><img src="{{ URL::asset('/template/assets/img/portfolio/books-3.jpg') }}"
                                     class="img-fluid" alt=""></a>
                             <div class="portfolio-info">
                                 <h4><a href="{{ url('portfolio-details.html') }}" title="More Details">Books 3</a></h4>
@@ -631,7 +631,7 @@
 
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-1.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-1.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Rahman</h4>
                         <span>Founder {{ env('APP_NAME') }}</span>
@@ -646,7 +646,7 @@
 
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-3.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-3.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Rivai</h4>
                         <span>Co Founder</span>
@@ -660,7 +660,7 @@
                 </div>
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-3.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-3.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Mitsuki</h4>
                         <span>Vice Product</span>
@@ -676,7 +676,7 @@
 
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-2.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-2.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Tata</h4>
                         <span>Bisnis Dan Marketing</span>
@@ -691,7 +691,7 @@
 
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-4.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-4.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Margareta</h4>
                         <span>Content Creator</span>
@@ -705,7 +705,7 @@
                 </div>
                 <div class="col d-flex" data-aos="fade-up" data-aos-delay="400">
                     <div class="member">
-                        <img src="{{ URL::asset('/impact/assets/img/team/team-4.jpg') }}" class="img-fluid"
+                        <img src="{{ URL::asset('/template/assets/img/team/team-4.jpg') }}" class="img-fluid"
                             alt="">
                         <h4>Adila</h4>
                         <span>Social Media Management</span>
@@ -924,7 +924,7 @@
                     <article>
 
                         <div class="post-img">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-1.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-1.jpg') }}" alt=""
                                 class="img-fluid">
                         </div>
 
@@ -935,7 +935,7 @@
                         </h2>
 
                         <div class="d-flex align-items-center">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-author.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-author.jpg') }}" alt=""
                                 class="img-fluid post-author-img flex-shrink-0">
                             <div class="post-meta">
                                 <p class="post-author">Maria Doe</p>
@@ -952,7 +952,7 @@
                     <article>
 
                         <div class="post-img">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-2.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-2.jpg') }}" alt=""
                                 class="img-fluid">
                         </div>
 
@@ -963,7 +963,7 @@
                         </h2>
 
                         <div class="d-flex align-items-center">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-author-2.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-author-2.jpg') }}" alt=""
                                 class="img-fluid post-author-img flex-shrink-0">
                             <div class="post-meta">
                                 <p class="post-author">Allisa Mayer</p>
@@ -980,7 +980,7 @@
                     <article>
 
                         <div class="post-img">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-3.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-3.jpg') }}" alt=""
                                 class="img-fluid">
                         </div>
 
@@ -992,7 +992,7 @@
                         </h2>
 
                         <div class="d-flex align-items-center">
-                            <img src="{{ URL::asset('/impact/assets/img/blog/blog-author-3.jpg') }}" alt=""
+                            <img src="{{ URL::asset('/template/assets/img/blog/blog-author-3.jpg') }}" alt=""
                                 class="img-fluid post-author-img flex-shrink-0">
                             <div class="post-meta">
                                 <p class="post-author">Mark Dower</p>
